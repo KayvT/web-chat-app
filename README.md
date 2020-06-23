@@ -2,7 +2,7 @@
 
 #### A simple web chat app built with web sockets. 
 
-### How it looks like
+### What it looks like
 
 - When it is opened, this simple page appears. Here you are asked to choose a name that is not already used by anyone in the chat room.
 
@@ -17,8 +17,6 @@
 ### Try it yourself
 
 - To try it yourself, clone the repo.
-- Run the server with: node server.js
+- Run the server with: node index.js
 - Open the html page in the static folder in a web browser(open as many tabs as you like to test it). 
 
-
-##### Thank you! 
